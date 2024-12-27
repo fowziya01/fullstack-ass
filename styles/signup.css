@@ -1,0 +1,30 @@
+#form{
+    width: 60%;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    background-color: rgb(90, 90, 180);
+    padding: 40px;
+    
+}
+#form input{
+    height: 20px;
+
+}
+select{
+  height: 30px;  
+}
+#submit{
+    width: 13rem;
+    height: 2rem;
+    background-color: rgb(90, 90, 180);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    
+}
+#submit{
+    background-color:rgb(54, 54, 142) ;
+}
